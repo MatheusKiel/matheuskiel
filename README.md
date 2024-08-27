@@ -5,21 +5,6 @@
 </div>
 </br>
 
-### Principais projetos:
-<a href="https://github.com/MatheusKiel/matheuskiel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuskiel&repo=matheuskiel&theme=tokyonight" />
-</a>
-<a href="https://github.com/MatheusKiel/matheuskiel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuskiel&repo=matheuskiel&theme=tokyonight" />
-</a>
-<a href="https://github.com/MatheusKiel/matheuskiel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuskiel&repo=matheuskiel&theme=tokyonight" />
-</a>
-<a href="https://github.com/MatheusKiel/matheuskiel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuskiel&repo=matheuskiel&theme=tokyonight" />
-</a>
-</br>
-
 ### Tecnologias que uso no meu dia:
 <div style="Display: inline_block">
     <img align="center" alt="html15" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
