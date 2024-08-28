@@ -8,6 +8,6 @@
 ### Tecnologias que uso no meu dia:
 <div style="Display: inline_block">
     <img align="center" alt="kiel-powerBI" height="50" width="50" src="/icons/python-original.svg">
-    <img align="center" alt="kiel-powerBI" height="50" width="50" src="/icons/Power-BI.svg">
+    <img align="center" alt="kiel-powerBI" height="40" width="50" src="/icons/Power-BI.svg">
 </div>
 </br>
