@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Kiel ✌
 <div style="Display: inline_block">
-    <img align="center" alt="html15" src="https://github-readme-stats.vercel.app/api?username=matheuskiel&show_icons=true&theme=tokyonight">
-    <img align="center" alt="html15" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuskiel&theme=tokyonight">
+    <img align="center" alt="html15" src="https://github-readme-stats.vercel.app/api?username=matheuskiel&show_icons=true&theme=tokyonight&count_private=true">
+    <img align="center" alt="html15" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=matheuskiel&theme=tokyonight">
 </div>
 
 ##
