@@ -19,6 +19,6 @@
 ##
 
 ### Principais projetos:
-<a href="https://github.com/MatheusKiel/projeto_petshop_dash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuskiel&repo=projeto_petshop_dash&theme=tokyonight" />
+<a href="https://github.com/MatheusKiel/gerador_de_dados">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matheuskiel&repo=gerador_de_dados&theme=tokyonight" />
 </a>
